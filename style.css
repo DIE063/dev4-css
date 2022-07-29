@@ -1,0 +1,37 @@
+header > h1 {
+    color: crimson;
+}
+header > a {
+    margin-right: 10px;
+    color: rgb(81,108,194);
+}
+header > h2 {
+    color: rgb(91,12,238);
+}
+
+body {
+    text-align: center;
+}
+
+.sub-sub-title {
+    color: chocolate;
+}
+.p-about-us {
+    text-align: justify;
+    margin: 20px;
+}
+
+ul,p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow' sans-serif;
+    list-style-position: inside;
+}
+
+.instruments {
+    width: 350px;
+}
+
+ol {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow' sans-serif;
+    display: table;
+    margin: auto;
+}
